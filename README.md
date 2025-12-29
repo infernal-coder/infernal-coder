@@ -1,18 +1,22 @@
+# Inferno
+# I’m the infernal-coder!
 
+## Security Engineer | Aspiring Game, Application & AI Developer
+Welcome to my GitHub! I’m a security engineer embarking on an exciting new journey: moving from securing systems to building them. My mission? To become a game developer and dive into the world of application development.
 
-## Hi there 👋
+### About Me
+- Security Engineer with a strong foundation in network and application security
+- New to programming, passionate about learning and growth
+- Dreaming of creating games and innovative applications
+- Currently sharpening my coding skills and exploring new tech
 
-<!--
-**infernal-coder/infernal-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills & Certifications
+- **Languages:** C++, Python
+- **Certifications:** CCNP Security, DEVASC
 
-Here are some ideas to get you started:
+### What’s Next?
+I haven’t launched any public projects… yet! My focus is on mastering programming fundamentals and building a solid foundation. Stay tuned for future projects and collaborations!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “Every expert was once a beginner.”
